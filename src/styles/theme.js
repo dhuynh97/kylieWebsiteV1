@@ -22,7 +22,7 @@ const theme = {
     aboutPictureOutline: '#81d8d0',
 
     headingLine: '#',
-    featuredProjectHighlight: '#020c1b',
+    featuredProjectHighlight: '#000000',
     
     tiffanyBlue: '#81d8d0',
     tiffanyMidBlue: '#5cdfe5',
