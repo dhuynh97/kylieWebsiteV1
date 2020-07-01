@@ -1,34 +1,30 @@
 module.exports = {
-  siteTitle: 'Daniel Huynh',
+  siteTitle: 'Kylie Ikeda',
   siteDescription:
-    'Daniel Huynh is a software engineer based in San Jose, CA who ',
+    'Kylie Ikeda is a Product Marketer based in San Diego, CA who ',
   siteKeywords:
-    'Daniel Huynh, Daniel, Huynh, dhuynh97, software engineer, front-end engineer, web developer, javascript, UC San Diego, UCSD, San Jose,',
-  siteUrl: 'https://danielhuynh.co',
+    'Kylie Ikeda, Kylie, Ikeda, kyliejci, marketing, product marketing, San Diego State University, SDSU , UCSD, San Diego, Honolulu, Hawaii,',
+  siteUrl: 'https://kylieikeda.com',
   siteLanguage: 'en_US',
   googleAnalyticsID: '',
   googleVerification: '',
-  name: 'Daniel Huynh',
-  location: 'San Jose, CA',
-  email: 'danielhuynh97@gmail.com',
+  name: 'Kylie Ikeda',
+  location: 'San Diego, CA',
+  email: 'ky2260@gmail.com',
   github: 'https://github.com/dhuynh97',
-  twitterHandle: '@danierhuynh',
+  twitterHandle: '@kyliejci',
   socialMedia: [
     {
       name: 'Linkedin',
-      url: 'https://www.linkedin.com/in/danielhuynh97',
-    },
-    {
-      name: 'GitHub',
-      url: 'https://github.com/dhuynh97',
+      url: 'https://www.linkedin.com/in/kylie-ikeda-499b75135/',
     },
     {
       name: 'Instagram',
-      url: 'https://www.instagram.com/danisdabombdotcom',
+      url: 'https://www.instagram.com/kyliejci',
     },
     {
       name: 'Twitter',
-      url: 'https://twitter.com/danierhuynh',
+      url: 'https://twitter.com/kyliejci',
     },
   ],
 

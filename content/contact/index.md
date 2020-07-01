@@ -1,5 +1,5 @@
 ---
-title: 'get in contact'
+title: 'get in contact!'
 buttonText: 'say hey!'
 ---
 
